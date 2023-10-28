@@ -11,3 +11,28 @@
 .no-pagina {
     font-size: 4rem;
 }
+
+.inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 6rem;
+}
+
+.bienvenido {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+.happy {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.subtitulo {
+    margin-bottom: -2rem;
+}
+
+.pastel {
+    font-size: 12rem;
+}
